@@ -1,0 +1,8 @@
+entity FlightDetails {
+name String required,
+city String required,
+country String required,
+iata String required,
+latitude BigDecimal	required,
+longitude BigDecimal required
+}
